@@ -16,7 +16,8 @@
 	{"key":"小灯塔地理","name":"💯小灯塔地理","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/小灯塔地理.json"},
 	{"key":"小灯塔国学","name":"💯小灯塔國學","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/小灯塔国学.json"},
 	{"key":"小灯塔人文","name":"💯小灯塔人文","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/小灯塔人文.json"}],
-"doh":
+	{"key": "csp_Ying","name": "💮樱花┃动漫","type": 3,"api": "csp_Ying","searchable": 1,"quickSearch": 1,"changeable": 1},
+doh":
 	[{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
 	{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},
 	{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},
