@@ -16,7 +16,7 @@
 	{"key":"小灯塔地理","name":"💯小灯塔地理","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/小灯塔地理.json"},
 	{"key":"小灯塔国学","name":"💯小灯塔國學","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/小灯塔国学.json"},
 	{"key":"小灯塔人文","name":"💯小灯塔人文","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/小灯塔人文.json"},
-	{"key":"路漫漫","name":"路漫漫","type":3,"api":"https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/动漫/JS/drpy.min.js","ext":"https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/动漫/JS/路漫漫.js"},],
+	{"key":"路漫漫","name":"路漫漫","type":3,"api":"https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/动漫/JS/drpy.min.js","ext":"https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/动漫/JS/路漫漫.js"}],
 
 "doh":
 	[{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
