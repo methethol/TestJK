@@ -2,7 +2,6 @@
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"兔小贝","name":"兔小贝","type":3,"api":"https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/js/drpy.min.js","ext":"https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/js/兔小贝.js","searchable":0,"quickSearch":0,"filterable":0},
-	{ "key": "儿童","name": "📚┃少儿┃教育","type": 3,"api": "csp_Bili","searchable": 0"quickSearch": 1,"filterable": 1,"ext": "http://52pan.top:81/api/v3/file/get/61578/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json?sign=3BlFTWj-rXJPPgJB6eQ1_C0odRnDCaW28cr8afXaO_I%3D%3A0"
 	{"key":"配置中心","name":"配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;158912c940bc4c3fa877dec5d163d3af"},
 	{"key":"儿童拼音","name":"哔哩｜儿童拼音","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/儿童拼音.json"},
 	{"key":"儿童识字","name":"哔哩｜儿童识字","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/儿童识字.json"},
