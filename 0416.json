@@ -20,8 +20,7 @@
 	{"key":"小灯塔人文","name":"💯小灯塔人文","type":3,"api":"csp_Bili","jar":"https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;fc213119cc5c6ba5c1b53fb77b9c2144","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/小灯塔人文.json"},
 	{"key":"路漫漫","name":"路漫漫","type":3,"api":"https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/动漫/JS/drpy.min.js","ext":"https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/动漫/JS/路漫漫.js"},
 	{"key":"网飞影视","name":"网飞影视","type":3,"api":"https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy.min.js","ext":"https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/网飞TV.js"},
-	{"key":"csp_xBPQ_毒蛇","name": "毒蛇|影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./lib/毒蛇影视.json","jar": "https://raw.githubusercontent.com/guot55/yg/main//lib/XBPQ.jar"},
-{"key":"XBPQ_黑狐影院","name":"黑狐影院|XBPQ","type":3,"api":"csp_XBPQ", "jar":"https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar",
+	{"key":"XBPQ_黑狐影院","name":"黑狐影院|XBPQ","type":3,"api":"csp_XBPQ", "jar":"https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar",
 			"ext": {
 				"站名": "黑狐影院",
 				"主页url": "http://fagmn.com",
