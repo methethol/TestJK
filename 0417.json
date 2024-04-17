@@ -243,7 +243,7 @@
         "线路数组": "🌙宝盒专享",
         "分类": "电影$1#电视剧$2#动漫$3",
         "分类url": "https://www.baipiaoys.com:9092/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
-      },"jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/yg.jar"},
+      },
 	
 	
 	
