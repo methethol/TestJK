@@ -1,3 +1,5 @@
+//TV參見 https://github.com/motherfucker02/TVBOX/blob/main/mytv.txt
+
 🇹🇼｜臺灣,#genre#
 ELEVEN1,https://z88.ubtvfans.com/live/rx1/1133/64a8f14b61c93d85873c39955eccf1c9/index.m3u8
 ELEVEN2,https://z88.ubtvfans.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f4c78/index.m3u8
