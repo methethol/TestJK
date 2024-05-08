@@ -32,7 +32,7 @@
 {"key":"櫻花","name":"🌸櫻花┃动漫","type":3,"api":"csp_WexYing","searchable":1,"changeable":1},
 {"key":"巴士","name":"🤡巴士┃动漫","type":3,"api":"csp_WexDm84","searchable":1,"changeable":1},
 {"key":"異界","name":"🤡異界┃动漫","type":3,"api":"csp_WexYsj","searchable":1,"changeable":1},
-	
+{"key":"Ying","name":"🌸樱花动漫","type":3,"jar": "./spider/fan.txt","api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},	
 
 
 
